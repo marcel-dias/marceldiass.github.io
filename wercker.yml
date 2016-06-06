@@ -1,14 +1,30 @@
 box: debian
 build:
   steps:
-    - arjen/hugo-build:
+    - script:
+        name: initialize git submodules
+        code: |
+          git submodule update --init --recursive
+    - arjen/hugo-build@1.9.2:
         version: "0.15"
         theme: beautifulhugo
         flags: --buildDrafts=false
+    - script:
+        name: ls stuff
+        code: |
+          ls -haltr /pipeline/source/public
 deploy:
   steps:
+    - script:
+        name: ls output
+        code: |
+          ls -haltr /pipeline/output
+    - script:
+        name: ls source
+        code: |
+          ls -haltr /pipeline/source
     - install-packages:
-        packages: git ssh-client
+        packages: git ssh-client liberror-perl
     - lukevivier/gh-pages@0.2.1:
         token: $GH_TOKEN
         domain: marceldias.com
