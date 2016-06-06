@@ -1,0 +1,38 @@
+baseurl = "http://marceldias.com"
+languageCode = "en-us"
+title = "Marcel Dias"
+theme = "beautifulhugo"
+pygmentsUseClasses = true
+paginate = 5
+disqusShortname = "marceldiass"
+googleAnalytics = "UA-43567249-1"
+description = "Marcel Dias thoughts and adventures in software development."
+keywords = "software,developer,software development,software engineer,agile"
+
+[permalinks]
+  post = "/post/:year/:month/:day/:title/"
+
+[taxonomies]
+  category = "categories"
+
+[Params]
+  subtitle = "A Software Developer Adventures Blog"
+  Description = "Marcel Dias thoughts and adventures in software development."
+
+[Author]
+  name = "Marcel Dias"
+  email = "marceldiass at gmail.com"
+  github = "marceldiass"
+  twitter = "marceldiass"
+  linkedin = "in/marceldias"
+  stackoverflow = "4638693/marcel-dias"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
