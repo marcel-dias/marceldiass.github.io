@@ -1,4 +1,4 @@
-baseurl = "http://marceldias.com"
+baseurl = "http://marceldias.com/"
 languageCode = "en-us"
 title = "Marcel Dias"
 theme = "beautifulhugo"
