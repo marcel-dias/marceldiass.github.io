@@ -1,10 +1,6 @@
 box: debian
 build:
   steps:
-    - script:
-        name: initialize git submodules
-        code: |
-          git submodule update --init --recursive
     - arjen/hugo-build@1.9.2:
         version: "0.15"
         theme: beautifulhugo
