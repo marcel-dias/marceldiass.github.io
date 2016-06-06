@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marcel Dias</title>
+    <link>http://marceldias.com/post/</link>
+    <description>Recent content in Posts on Marcel Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>marceldiass at gmail.com (Marcel Dias)</managingEditor>
+    <webMaster>marceldiass at gmail.com (Marcel Dias)</webMaster>
+    <lastBuildDate>Fri, 13 Nov 2015 12:08:14 -0200</lastBuildDate>
+    <atom:link href="http://marceldias.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>First Post</title>
+      <link>http://marceldias.com/post/2015/11/13/first-post/</link>
+      <pubDate>Fri, 13 Nov 2015 12:08:14 -0200</pubDate>
+      <author>marceldiass at gmail.com (Marcel Dias)</author>
+      <guid>http://marceldias.com/post/2015/11/13/first-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;this-is-my-first-post-on-my-brand-new-hugo-io-blog:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;This is my first post on my brand new Hugo.io blog&lt;/h2&gt;
+
+&lt;p&gt;Here I want to share my thoughts and adventures in software development.&lt;/p&gt;
+
+&lt;p&gt;To know a bit more read the about page&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

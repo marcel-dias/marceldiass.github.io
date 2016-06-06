@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcel Dias</title>
+    <link>http://marceldias.com/</link>
+    <description>Recent content on Marcel Dias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>marceldiass at gmail.com (Marcel Dias)</managingEditor>
+    <webMaster>marceldiass at gmail.com (Marcel Dias)</webMaster>
+    <lastBuildDate>Mon, 06 Jun 2016 00:19:22 -0300</lastBuildDate>
+    <atom:link href="http://marceldias.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://marceldias.com/about/</link>
+      <pubDate>Mon, 06 Jun 2016 00:19:22 -0300</pubDate>
+      <author>marceldiass at gmail.com (Marcel Dias)</author>
+      <guid>http://marceldias.com/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;marcel-dias:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Marcel Dias&lt;/h1&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been working as a software developer since 2005. Worked in financial, health, news and software business segments. I&amp;rsquo;m always looking for tools and process improvements to find the best way to delivery quality software. I also try to help teams to create and keep the best climate to develop software.&lt;/p&gt;
+
+&lt;p&gt;Acting as a software developer I always try to do my best to deliver effective and efficient software solutions. I like to automate tasks to get a best productivity and keep doing code. I&amp;rsquo;ve learned to write unit test to always deliver maintainable code.&lt;/p&gt;
+
+&lt;p&gt;I have interest in agile methods, software design, software architecture, user experience, entrepreneurship, web technologies and value delivery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://marceldias.com/post/2015/11/13/first-post/</link>
+      <pubDate>Fri, 13 Nov 2015 12:08:14 -0200</pubDate>
+      <author>marceldiass at gmail.com (Marcel Dias)</author>
+      <guid>http://marceldias.com/post/2015/11/13/first-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;this-is-my-first-post-on-my-brand-new-hugo-io-blog:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;This is my first post on my brand new Hugo.io blog&lt;/h2&gt;
+
+&lt;p&gt;Here I want to share my thoughts and adventures in software development.&lt;/p&gt;
+
+&lt;p&gt;To know a bit more read the about page&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
