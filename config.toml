@@ -1,4 +1,4 @@
-baseurl = "http://marceldias.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Marcel Dias"
 theme = "beautifulhugo"
@@ -16,8 +16,8 @@ keywords = "software,developer,software development,software engineer,agile"
   category = "categories"
 
 [Params]
-  subtitle = "A Software Developer Adventures Blog"
-  Description = "Marcel Dias thoughts and adventures in software development."
+  subtitle = "Thoughts and adventures in software development"
+  Description = "Marcel Dias Thoughts and adventures in software development."
 
 [Author]
   name = "Marcel Dias"
