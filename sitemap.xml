@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://marceldias.com/</loc>
+    <loc>/</loc>
     <lastmod>2016-06-06T00:19:22-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://marceldias.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-06-06T00:19:22-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://marceldias.com/post/2015/11/13/first-post/</loc>
+    <loc>/post/2015/11/13/first-post/</loc>
     <lastmod>2015-11-13T12:08:14-02:00</lastmod>
   </url>
   
