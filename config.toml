@@ -6,7 +6,7 @@ pygmentsUseClasses = true
 paginate = 5
 disqusShortname = "marceldiass"
 googleAnalytics = "UA-43567249-1"
-description = "Marcel Dias thoughts and adventures in software development."
+description = "Marcel Dias thoughts on software development."
 keywords = "software,developer,software development,software engineer,agile"
 
 [permalinks]
@@ -16,8 +16,8 @@ keywords = "software,developer,software development,software engineer,agile"
   category = "categories"
 
 [Params]
-  subtitle = "Thoughts and adventures in software development"
-  Description = "Marcel Dias Thoughts and adventures in software development."
+  subtitle = "Thoughts on software development"
+  Description = "Marcel Dias Thoughts on software development."
 
 [Author]
   name = "Marcel Dias"
